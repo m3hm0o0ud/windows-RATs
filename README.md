@@ -1,6 +1,6 @@
 
 ### 1. `README.md`
-```markdown
+
 # Windows RATs
 
 `Windows RATs` is a simple project that uses Python to develop a Remote Access Trojan (RAT) for the Windows operating system. This project allows users to send commands from the server to the client to perform various tasks on the client machine such as changing the directory, listing files in the current directory, downloading files, uploading files, and deleting files. The project aims to provide an educational environment to understand how to build and improve RATs using safe and ethical programming practices. **This project is for educational purposes only and should not be used for any malicious or illegal activities.**
