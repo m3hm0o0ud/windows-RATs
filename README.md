@@ -19,10 +19,10 @@
 ## Screenshots
 
 ### Server Running
-![Server Running](screenshots/server_running.png)
+![Server Running](https://github.com/m3hm0o0ud/windows-RATs/blob/main/screenshots/server_running.PNG)
 
 ### Client Running
-![Client Running](screenshots/client_running.png)
+![Client Running](https://github.com/m3hm0o0ud/windows-RATs/blob/main/screenshots/client_running.PNG)
 
 ## Installation
 
